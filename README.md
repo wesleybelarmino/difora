@@ -23,3 +23,13 @@ Algumas das funcionalidades que você encontra no app:
 • Criar seu perfil de peladeiro com histórico de partidas e gols marcados;
 • Notificação automática de novo jogo marcado aos membros do grupo;
 • Compartilhar o DIFORA com amigos de forma simples.
+
+
+
+
+
+![Scrrenshot](difora_1.png)
+![Scrrenshot](difora_2.png)
+![Scrrenshot](difora_3.png)
+![Scrrenshot](difora_4.png)
+![Scrrenshot](difora_5.png)
