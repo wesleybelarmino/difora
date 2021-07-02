@@ -25,7 +25,8 @@ Algumas das funcionalidades que você encontra no app:
 • Compartilhar o DIFORA com amigos de forma simples.
 
 
-
+<br/>
+<br/>
 
 
 ![Scrrenshot](difora_1.png)
